@@ -9,7 +9,7 @@ clock, notes, photo tiles, docks — layered over animated 3D shader
 effects. Event-driven GL pipeline: heavy visuals, light battery.
 
 - **Project site & privacy policy:** https://kanarstudio.github.io/
-- **Google Play:** https://play.google.com/store/apps/details?id=com.kanar.glowdeck
+- **Google Play:** [https://play.google.com/store/apps/details?id=com.kanar.glowdeck](https://play.google.com/store/apps/details?id=com.kanar.glowdeck)
 
 ## ☕ Support the project
 
